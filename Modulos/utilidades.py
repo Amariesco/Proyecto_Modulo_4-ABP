@@ -1,0 +1,1 @@
+# Tendra validaciones y herramientas para el proyecto, como manejo de fechas, validación de entradas, etc.

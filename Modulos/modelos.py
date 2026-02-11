@@ -1,0 +1,1 @@
+# Tendra clases para los modelos de datos, como Usuario, atributos, etc.

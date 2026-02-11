@@ -1,0 +1,1 @@
+# Archivo tendra lógica de negocio, manejo de JSON y Logs
